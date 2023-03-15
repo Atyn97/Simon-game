@@ -21,12 +21,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.PNG)
+![](./capture.PNG)
 
 ### Links
 
 - Solution URL: [Solution](https://github.com/Atyn97/NFT)
-- Live Site URL: [Live site](https://atyn97.github.io/NFT/)
+- Live Site URL: [Live site](https://atyn97.github.io/Simon-game/)
 
 ## My process
 
@@ -34,8 +34,9 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 - Bootstrap 5
+- Javascript
+- JQuery
 
 ## Author
 
