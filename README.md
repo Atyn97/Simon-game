@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/Atyn97/NFT)
+- Solution URL: [Solution](https://github.com/Atyn97/Simon-game)
 - Live Site URL: [Live site](https://atyn97.github.io/Simon-game/)
 
 ## My process
