@@ -39,4 +39,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@Atyn97](https://www.frontendmentor.io/profile/Atyn97)
+- Fatin Nooraina - [@Atyn97](https://www.frontendmentor.io/profile/Atyn97)
